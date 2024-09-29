@@ -1,6 +1,6 @@
 # Volandia
 
-**Volandia** is a dynamic web application designed for users to log in, search for, and book flights. The platform features an admin panel for managing flights and passengers. Built using PHP and MySQL.
+**Volandia** is a dynamic web application designed for users to log in, search for, and book flights. The platform features an admin panel for managing flights and passengers.
 
 ## Features
 
